@@ -40,7 +40,7 @@ Tüm sistem **lokalde çalışır** ve internet bağlantısına ihtiyaç duymada
 ### 1. Projeyi klonla
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/ai-kuafor-chatbot.git
+git clone https://github.com/M-Halil-kiral/ai-kuafor-chatbot.git
 cd ai-kuafor-chatbot
 ```
 
