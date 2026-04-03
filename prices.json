@@ -1,0 +1,51 @@
+{
+  "haircut": {
+    "short": 250,
+    "medium": 300,
+    "long": 350,
+    "children": 150,
+    "notes": "Boy kesimi sırasında fön ve şekillendirme dahil değildir. Ekstra fön veya şekillendirme ayrı ücrete tabidir."
+  },
+  "hair_coloring": {
+    "single_color_short": 600,
+    "single_color_long": 800,
+    "ombre_medium": 900,
+    "ombre_long": 1200,
+    "highlights": [700, 1000],
+    "bleach_additional": 200,
+    "notes": "Boyama öncesi saç durumu kontrol edilir. Renk ve işlem zorluğuna göre fiyat değişebilir."
+  },
+  "hair_treatment": {
+    "keratin": 700,
+    "mask": 150,
+    "repair": 300,
+    "notes": "Farklı saç tipleri için özel ürünler kullanılır. İşlem süresi değişebilir."
+  },
+  "styling": {
+    "blow_dry": 150,
+    "curling": 200,
+    "updo": 400,
+    "wedding_package": 1000,
+    "notes": "İşlem süresi ve fiyat, müşterinin isteğine göre değişebilir."
+  },
+  "manicure_pedicure": {
+    "basic_manicure": 150,
+    "french_manicure": 200,
+    "pedicure": 200,
+    "combo": 300,
+    "nail_art": [50, 150],
+    "notes": "Ekstra tırnak süsleme veya nail art fiyatları işlem zorluğuna göre değişebilir."
+  },
+  "packages": {
+    "haircut_blow_dry": 400,
+    "color_keratin": 1300,
+    "wedding_package_custom": "fiyat özel talebe göre belirlenir",
+    "notes": "Paketler, tekli işlemlerden daha ekonomik olabilir."
+  },
+  "general_notes": [
+    "Fiyatlar 2026 yılı güncel fiyatlarıdır.",
+    "Saç uzunluğu ve yoğunluğuna göre fiyat değişebilir.",
+    "Ödeme nakit veya kredi kartı ile yapılabilir.",
+    "Müşteriye her zaman güncel fiyat listesi sunulur."
+  ]
+}

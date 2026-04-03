@@ -1,0 +1,50 @@
+{
+  "business_name": "Güzel Kadın Kuaförü",
+  "address": {
+    "street": "Atatürk Caddesi No:123",
+    "neighborhood": "Merkez Mahallesi",
+    "city": "İstanbul",
+    "province": "Kadıköy",
+    "country": "Türkiye",
+    "postal_code": "34710",
+    "notes": "Kuaförümüz merkezi bir konumda, toplu taşıma ve araç ile kolay ulaşım."
+  },
+  "contact": {
+    "phone": "+90 532 123 45 67",
+    "whatsapp": "+90 532 123 45 67",
+    "email": "info@guzelkuafor.com",
+    "instagram": "https://www.instagram.com/guzelkuafor",
+    "facebook": "https://www.facebook.com/guzelkuafor",
+    "notes": "Randevu almak için WhatsApp hattımızı kullanabilirsiniz, genellikle 15-30 dakika içinde yanıt veriyoruz."
+  },
+  "hours": {
+    "monday": "09:00-19:00",
+    "tuesday": "09:00-19:00",
+    "wednesday": "09:00-19:00",
+    "thursday": "09:00-19:00",
+    "friday": "09:00-19:00",
+    "saturday": "09:00-17:00",
+    "sunday": "Kapalı",
+    "notes": "Hafta içi ve hafta sonu çalışma saatleri müşteriye önceden bildirilen özel günlerde değişebilir."
+  },
+  "services_offered": [
+    "Saç Kesimi",
+    "Saç Boyama ve Röfle",
+    "Keratin ve Saç Bakım Paketleri",
+    "Fön, Maşa ve Topuz",
+    "Manikür & Pedikür",
+    "Düğün ve Özel Gün Paketleri"
+  ],
+  "rental_info": {
+    "parking": "Mağaza önü ve yakın çevrede park imkanı vardır.",
+    "public_transport": "Metrobüs ve metro duraklarına yürüme mesafesinde."
+  },
+  "covid_guidelines": {
+    "mask_required": true,
+    "sanitizer_available": true,
+    "notes": "Müşterilerimizin güvenliği için tüm işlemler sırasında hijyen kurallarına uyulmaktadır."
+  },
+  "faq_reference": "faq.txt",
+  "prices_reference": "prices.json",
+  "notes": "LLM bu dosyayı kullanarak kullanıcıya doğru konum, iletişim, saatler ve genel işletme bilgilerini aktarabilir."
+}
